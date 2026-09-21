@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Интерактивная карта всего Азерота из вселенной Warcraft.">
+    <title>Азерот — Атлас Азерота</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/region.css">
+</head>
+<body class="region-page">
+
+    <header class="region-header">
+        <a href="../index.html" class="back-btn">
+            <span class="back-arrow">←</span>
+            <span>На главную</span>
+        </a>
+        <h1 class="region-title">Азерот</h1>
+        <div class="header-spacer"></div>
+    </header>
+
+    <div class="hint">
+        💡 Нажмите на регион, чтобы открыть подробную карту. Колёсико — зум.
+    </div>
+
+    <main class="map-wrapper">
+        <div id="leaflet-map"></div>
+    </main>
+    <!-- Боковая панель с превью статьи -->
+    <aside class="wiki-panel" id="wiki-panel">
+        <div class="wiki-panel-header">
+            <span class="wiki-panel-title" id="wiki-panel-title">Статья</span>
+            <button class="wiki-panel-close" id="wiki-panel-close" aria-label="Закрыть">✕</button>
+        </div>
+        <div class="wiki-panel-body" id="wiki-panel-body">
+            <div class="wiki-panel-loading">Загрузка...</div>
+        </div>
+        <div class="wiki-panel-footer">
+            <a class="wiki-panel-link" id="wiki-panel-link" href="#" target="_blank" rel="noopener">
+                Читать полностью на Wowpedia →
+            </a>
+        </div>
+    </aside>
+    <footer class="region-footer">
+        <p>© 2025 Атлас Азерота. World of Warcraft © Blizzard Entertainment.</p>
+    </footer>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <!-- Наш скрипт Leaflet -->
+    <script src="../js/leaflet-map.js"></script>
+    <script src="../js/editor-leaflet.js"></script>
+    <script src="../js/wiki-panel.js"></script>
+
+</body>
+</html>

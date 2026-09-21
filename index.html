@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Интерактивный атлас регионов вселенной Warcraft. Кликабельные карты с переходом на статьи Wowpedia.">
+    <title>Атлас Азерота — Интерактивная карта вселенной Warcraft</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <!-- ===== ШАПКА САЙТА ===== -->
+    <header class="site-header">
+        <div class="container header-inner">
+            <a href="index.html" class="logo">
+                <span class="logo-icon">⚔</span>
+                <span class="logo-text">Атлас Азерота</span>
+            </a>
+            <nav class="main-nav">
+                <a href="index.html" class="active">Главная</a>
+                <a href="about.html">О проекте</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- ===== ГЛАВНЫЙ БАННЕР ===== -->
+    <section class="hero">
+        <div class="container">
+            <h1 class="hero-title">Интерактивный атлас</h1>
+            <p class="hero-subtitle">
+                Исследуйте миры вселенной Warcraft. Кликайте на названия локаций 
+                на карте и переходите к подробным статьям на Wowpedia.
+            </p>
+        </div>
+    </section>
+
+    <!-- ===== СЕТКА РЕГИОНОВ ===== -->
+    <main class="container">
+        <h2 class="section-title">Выберите мир</h2>
+
+        <div class="regions-grid regions-grid-5">
+
+            <!-- Азерот — весь мир, широкая карточка -->
+            <a href="regions/azeroth.html" class="region-card region-card-featured">
+                <div class="region-image" style="background-image: url('img/maps/azeroth.jpg');">
+                    <div class="region-overlay"></div>
+                </div>
+                <div class="region-content">
+                    <h3 class="region-name">Азерот</h3>
+                    <p class="region-desc">Весь мир целиком. Выберите континент</p>
+                </div>
+            </a>
+
+            <!-- Дренор -->
+            <a href="regions/draenor.html" class="region-card">
+                <div class="region-image" style="background-image: url('img/maps/draenor.jpg');">
+                    <div class="region-overlay"></div>
+                </div>
+                <div class="region-content">
+                    <h3 class="region-name">Дренор</h3>
+                    <p class="region-desc">Древний мир орков до разрушения</p>
+                </div>
+            </a>
+
+            <!-- Запределье -->
+            <a href="regions/outland.html" class="region-card">
+                <div class="region-image" style="background-image: url('img/maps/outland.jpg');">
+                    <div class="region-overlay"></div>
+                </div>
+                <div class="region-content">
+                    <h3 class="region-name">Запределье</h3>
+                    <p class="region-desc">Осколки разрушенного Дренора</p>
+                </div>
+            </a>
+
+            <!-- Аргус -->
+            <a href="regions/argus.html" class="region-card">
+                <div class="region-image" style="background-image: url('img/maps/argus.jpg');">
+                    <div class="region-overlay"></div>
+                </div>
+                <div class="region-content">
+                    <h3 class="region-name">Аргус</h3>
+                    <p class="region-desc">Родной мир эредаров и Легиона</p>
+                </div>
+            </a>
+
+            <!-- Тёмные земли -->
+            <a href="regions/shadowlands.html" class="region-card">
+                <div class="region-image" style="background-image: url('img/maps/shadowlands.jpg');">
+                    <div class="region-overlay"></div>
+                </div>
+                <div class="region-content">
+                    <h3 class="region-name">Тёмные земли</h3>
+                    <p class="region-desc">Царство смерти и загробный мир</p>
+                </div>
+            </a>
+
+        </div>
+    </main>
+
+    <!-- ===== ПОДВАЛ ===== -->
+    <footer class="site-footer">
+        <div class="container">
+            <p>© 2025-2026 Атлас Азерота. Учебный проект.</p>
+            <p class="footer-note">
+                World of Warcraft © Blizzard Entertainment. 
+                Все материалы принадлежат их правообладателям.
+            </p>
+        </div>
+    </footer>
+
+</body>
+</html>
