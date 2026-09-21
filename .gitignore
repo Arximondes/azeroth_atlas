@@ -1,0 +1,25 @@
+# Системные файлы
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Python
+__pycache__/
+*.pyc
+server.py
+
+# Личные бэкапы
+*.bak
+*.old
+*.tmp
+
+# Node (если когда-то понадобится)
+node_modules/
+
+server.py
+.vscode/
+img/maps/azeroth_highres.jpg
