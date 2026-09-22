@@ -1637,6 +1637,780 @@
       "h": 0.2,
       "url": "https://wowpedia.fandom.com/wiki/Nordrassil",
       "desc": ""
+    },
+    {
+      "name": "Гора Хиджал",
+      "x": 18.3,
+      "y": 46.68,
+      "w": 0.9,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Mount_Hyjal",
+      "desc": ""
+    },
+    {
+      "name": "Круг огней",
+      "x": 18.02,
+      "y": 45.71,
+      "w": 0.3,
+      "h": 0.4,
+      "url": "https://wowpedia.fandom.com/wiki/Circle_of_Cinders",
+      "desc": ""
+    },
+    {
+      "name": "Святилище Авианы",
+      "x": 17.88,
+      "y": 46.35,
+      "w": 0.4,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Shrine_of_Aviana",
+      "desc": ""
+    },
+    {
+      "name": "Крепость Древобрюхов",
+      "x": 17.22,
+      "y": 42.62,
+      "w": 0.5,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Timbermaw_Hold",
+      "desc": ""
+    },
+    {
+      "name": "Руины матистры",
+      "x": 16.15,
+      "y": 42.4,
+      "w": 0.4,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Ruins_of_Mathystra",
+      "desc": ""
+    },
+    {
+      "name": "Лор Данел",
+      "x": 15.28,
+      "y": 41.72,
+      "w": 0.4,
+      "h": 0.2,
+      "url": "https://wowpedia.fandom.com/wiki/Lor%27danel",
+      "desc": ""
+    },
+    {
+      "name": "Темные берега",
+      "x": 13.2,
+      "y": 44.4,
+      "w": 1,
+      "h": 0.8,
+      "url": "https://wowpedia.fandom.com/wiki/Darkshore",
+      "desc": ""
+    },
+    {
+      "name": "Ясеневый лес",
+      "x": 12.15,
+      "y": 48.65,
+      "w": 1.8,
+      "h": 0.4,
+      "url": "https://wowpedia.fandom.com/wiki/Ashenvale",
+      "desc": ""
+    },
+    {
+      "name": "Дуротар",
+      "x": 20.75,
+      "y": 55.75,
+      "w": 1.1,
+      "h": 0.4,
+      "url": "https://wowpedia.fandom.com/wiki/Durotar",
+      "desc": ""
+    },
+    {
+      "name": "Пылевые топи",
+      "x": 20.5,
+      "y": 63.3,
+      "w": 1.1,
+      "h": 0.8,
+      "url": "https://wowpedia.fandom.com/wiki/Dustwallow_Marsh",
+      "desc": ""
+    },
+    {
+      "name": "Тысяча игл",
+      "x": 20.34,
+      "y": 67.33,
+      "w": 1.5,
+      "h": 0.4,
+      "url": "https://wowpedia.fandom.com/wiki/Thousand_Needles",
+      "desc": ""
+    },
+    {
+      "name": "Танарис",
+      "x": 20.37,
+      "y": 73.82,
+      "w": 1.1,
+      "h": 0.4,
+      "url": "https://wowpedia.fandom.com/wiki/Tanaris",
+      "desc": ""
+    },
+    {
+      "name": "Ульдум",
+      "x": 15.7,
+      "y": 79.1,
+      "w": 1,
+      "h": 0.4,
+      "url": "https://wowpedia.fandom.com/wiki/Uldum",
+      "desc": ""
+    },
+    {
+      "name": "Ан'Кираж: Павшее королевство",
+      "x": 9.3,
+      "y": 74.55,
+      "w": 2.9,
+      "h": 0.83,
+      "url": "https://wowpedia.fandom.com/wiki/Ahn%27Qiraj:_The_Fallen_Kingdom",
+      "desc": ""
+    },
+    {
+      "name": "Силитус",
+      "x": 11.2,
+      "y": 69.98,
+      "w": 1.1,
+      "h": 0.4,
+      "url": "https://wowpedia.fandom.com/wiki/Silithus",
+      "desc": ""
+    },
+    {
+      "name": "Фералас",
+      "x": 11.3,
+      "y": 66.03,
+      "w": 1.1,
+      "h": 0.4,
+      "url": "https://wowpedia.fandom.com/wiki/Feralas",
+      "desc": ""
+    },
+    {
+      "name": "Руины крепости",
+      "x": 11.32,
+      "y": 65.02,
+      "w": 0.4,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Ruins_of_Feathermoon",
+      "desc": ""
+    },
+    {
+      "name": "Крепость оперенной луны",
+      "x": 12.55,
+      "y": 65.35,
+      "w": 0.41,
+      "h": 0.4,
+      "url": "https://wowpedia.fandom.com/wiki/Feathermoon_Stronghold",
+      "desc": ""
+    },
+    {
+      "name": "Пустоши",
+      "x": 10.37,
+      "y": 57.75,
+      "w": 1.2,
+      "h": 0.5,
+      "url": "https://wowpedia.fandom.com/wiki/Desolace",
+      "desc": ""
+    },
+    {
+      "name": "Когтистые горы",
+      "x": 10.93,
+      "y": 53.1,
+      "w": 1.4,
+      "h": 0.8,
+      "url": "https://wowpedia.fandom.com/wiki/Stonetalon_Mountains",
+      "desc": ""
+    },
+    {
+      "name": "Сокрытое море",
+      "x": 6.3,
+      "y": 56.3,
+      "w": 3.1,
+      "h": 1.8,
+      "url": "https://wowpedia.fandom.com/wiki/Veiled_Sea",
+      "desc": ""
+    },
+    {
+      "name": "Тельдрассил",
+      "x": 11.8,
+      "y": 32.3,
+      "w": 3.3,
+      "h": 0.7,
+      "url": "https://wowpedia.fandom.com/wiki/Teldrassil",
+      "desc": ""
+    },
+    {
+      "name": "Дарнасское пепелище",
+      "x": 11.87,
+      "y": 37.83,
+      "w": 1.03,
+      "h": 0.37,
+      "url": "https://wowpedia.fandom.com/wiki/Darnassus",
+      "desc": ""
+    },
+    {
+      "name": "Остров кровавой дымки",
+      "x": 3.78,
+      "y": 37.32,
+      "w": 4.6,
+      "h": 1.43,
+      "url": "https://wowpedia.fandom.com/wiki/Bloodmyst_Isle",
+      "desc": ""
+    },
+    {
+      "name": "Остров драконьей скорби",
+      "x": 9.4,
+      "y": 39.1,
+      "w": 0.4,
+      "h": 0.4,
+      "url": "https://wowpedia.fandom.com/wiki/Wyrmscar_Island",
+      "desc": ""
+    },
+    {
+      "name": "Остров проклятой крови",
+      "x": 9.7,
+      "y": 40.6,
+      "w": 0.6,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Bloodcurse_Isle",
+      "desc": ""
+    },
+    {
+      "name": "Сверхускоритель",
+      "x": 8.52,
+      "y": 39.78,
+      "w": 0.6,
+      "h": 0.2,
+      "url": "https://wowpedia.fandom.com/wiki/Warp_Piston",
+      "desc": ""
+    },
+    {
+      "name": "Перевал янтарной паутины",
+      "x": 7.5,
+      "y": 39.7,
+      "w": 0.4,
+      "h": 0.4,
+      "url": "https://wowpedia.fandom.com/wiki/Amberweb_Pass",
+      "desc": ""
+    },
+    {
+      "name": "Аксариен",
+      "x": 8.29,
+      "y": 40.35,
+      "w": 0.4,
+      "h": 0.2,
+      "url": "https://wowpedia.fandom.com/wiki/Axxarien",
+      "desc": ""
+    },
+    {
+      "name": "Кровавая застава",
+      "x": 8.61,
+      "y": 40.83,
+      "w": 0.6,
+      "h": 0.2,
+      "url": "https://wowpedia.fandom.com/wiki/Blood_Watch",
+      "desc": ""
+    },
+    {
+      "name": "Логово клана зловещей чешуи",
+      "x": 9.11,
+      "y": 41.22,
+      "w": 0.6,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Wrathscale_Lair",
+      "desc": ""
+    },
+    {
+      "name": "Перекресток кессела",
+      "x": 8.76,
+      "y": 42.32,
+      "w": 0.48,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Kessel%27s_Crossing",
+      "desc": ""
+    },
+    {
+      "name": "Наззивиан",
+      "x": 8.18,
+      "y": 41.83,
+      "w": 0.4,
+      "h": 0.2,
+      "url": "https://wowpedia.fandom.com/wiki/Nazzivian",
+      "desc": ""
+    },
+    {
+      "name": "Берег черного ила",
+      "x": 7.85,
+      "y": 42.1,
+      "w": 0.3,
+      "h": 0.4,
+      "url": "https://wowpedia.fandom.com/wiki/Blacksilt_Shore",
+      "desc": ""
+    },
+    {
+      "name": "Криогенный блок",
+      "x": 8.18,
+      "y": 41,
+      "w": 0.42,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Cryo-Core",
+      "desc": ""
+    },
+    {
+      "name": "Энергоблок",
+      "x": 7.42,
+      "y": 41.1,
+      "w": 0.44,
+      "h": 0.2,
+      "url": "https://wowpedia.fandom.com/wiki/Vector_Coil",
+      "desc": ""
+    },
+    {
+      "name": "Логово клана тихвой",
+      "x": 9.2,
+      "y": 43.4,
+      "w": 0.5,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Stillpine_Hold",
+      "desc": ""
+    },
+    {
+      "name": "Тлеющая поляна",
+      "x": 9.72,
+      "y": 43.82,
+      "w": 0.38,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Emberglade",
+      "desc": ""
+    },
+    {
+      "name": "Лазурная застава",
+      "x": 9.46,
+      "y": 44.98,
+      "w": 0.4,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Azure_Watch",
+      "desc": ""
+    },
+    {
+      "name": "Долина Аммен",
+      "x": 10.66,
+      "y": 44.88,
+      "w": 0.31,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Ammen_Vale",
+      "desc": ""
+    },
+    {
+      "name": "Совиные холмы",
+      "x": 11,
+      "y": 46.2,
+      "w": 0.37,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Nestlewood_Hills",
+      "desc": ""
+    },
+    {
+      "name": "Экзодар",
+      "x": 7.98,
+      "y": 43.72,
+      "w": 1.03,
+      "h": 0.38,
+      "url": "https://wowpedia.fandom.com/wiki/Exodar",
+      "desc": ""
+    },
+    {
+      "name": "Лагерь Одиссия",
+      "x": 9.27,
+      "y": 46.16,
+      "w": 0.3,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Odesyus%27_Landing",
+      "desc": ""
+    },
+    {
+      "name": "Деревня косолапов",
+      "x": 8.5,
+      "y": 46.3,
+      "w": 0.4,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Bristlelimb_Village",
+      "desc": ""
+    },
+    {
+      "name": "Остров серебристой дымки",
+      "x": 7.8,
+      "y": 46.62,
+      "w": 0.47,
+      "h": 0.41,
+      "url": "https://wowpedia.fandom.com/wiki/Silvermyst_Isle",
+      "desc": ""
+    },
+    {
+      "name": "Остров лазурной дымки",
+      "x": 7,
+      "y": 48.15,
+      "w": 4.55,
+      "h": 1.53,
+      "url": "https://wowpedia.fandom.com/wiki/Azuremyst_Isle",
+      "desc": ""
+    },
+    {
+      "name": "Южные моря",
+      "x": 28.3,
+      "y": 74.5,
+      "w": 2.4,
+      "h": 1.9,
+      "url": "https://wowpedia.fandom.com/wiki/South_Seas",
+      "desc": ""
+    },
+    {
+      "name": "Затерянные острова",
+      "x": 29.37,
+      "y": 55.1,
+      "w": 3.1,
+      "h": 1.5,
+      "url": "https://wowpedia.fandom.com/wiki/Lost_Isles",
+      "desc": ""
+    },
+    {
+      "name": "Руины Вайш'Элана",
+      "x": 30.9,
+      "y": 53.13,
+      "w": 0.5,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Ruins_of_Vashj%27elan",
+      "desc": ""
+    },
+    {
+      "name": "Главный лагерь орды",
+      "x": 30.31,
+      "y": 52.7,
+      "w": 0.32,
+      "h": 0.47,
+      "url": "https://wowpedia.fandom.com/wiki/Horde_Base_Camp",
+      "desc": ""
+    },
+    {
+      "name": "Берег кораблекрушения",
+      "x": 29.4,
+      "y": 52.9,
+      "w": 0.62,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Shipwreck_Shore",
+      "desc": ""
+    },
+    {
+      "name": "Плацдарм Альянса",
+      "x": 29.17,
+      "y": 52.17,
+      "w": 0.38,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Alliance_Beachhead",
+      "desc": ""
+    },
+    {
+      "name": "Лесной наблюдательный пункт",
+      "x": 29.83,
+      "y": 51.43,
+      "w": 0.62,
+      "h": 0.45,
+      "url": "https://wowpedia.fandom.com/wiki/Wild_Overlook",
+      "desc": ""
+    },
+    {
+      "name": "Дозорный пункт вождя",
+      "x": 29.92,
+      "y": 50.5,
+      "w": 0.4,
+      "h": 0.4,
+      "url": "https://wowpedia.fandom.com/wiki/Warchief%27s_Lookout",
+      "desc": ""
+    },
+    {
+      "name": "Ямы рабов",
+      "x": 30.13,
+      "y": 49.69,
+      "w": 0.23,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Slave_Pits",
+      "desc": ""
+    },
+    {
+      "name": "Верфь галливикса",
+      "x": 30.2,
+      "y": 48.96,
+      "w": 0.4,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Gallywix_Docks",
+      "desc": ""
+    },
+    {
+      "name": "Нефтяная платформа ТКК",
+      "x": 30.7,
+      "y": 48.67,
+      "w": 0.4,
+      "h": 0.4,
+      "url": "https://wowpedia.fandom.com/wiki/KTC_Oil_Platform",
+      "desc": ""
+    },
+    {
+      "name": "Вырубки картеля",
+      "x": 31.15,
+      "y": 49.6,
+      "w": 0.32,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Bilgewater_Lumber_Yard",
+      "desc": ""
+    },
+    {
+      "name": "Водоворот",
+      "x": 36.4,
+      "y": 46.5,
+      "w": 2.95,
+      "h": 0.7,
+      "url": "https://wowpedia.fandom.com/wiki/Maelstrom",
+      "desc": ""
+    },
+    {
+      "name": "Сердце Азерота",
+      "x": 37.7,
+      "y": 50.4,
+      "w": 0.5,
+      "h": 0.2,
+      "url": "https://wowpedia.fandom.com/wiki/Heart_of_Azeroth_(Class_Hall)",
+      "desc": ""
+    },
+    {
+      "name": "Утес глаза бури",
+      "x": 38.03,
+      "y": 51.1,
+      "w": 0.4,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Storm%27s_Eye_Overlook",
+      "desc": ""
+    },
+    {
+      "name": "Остров новолуния",
+      "x": 34.2,
+      "y": 35.96,
+      "w": 3.1,
+      "h": 1.6,
+      "url": "https://wowpedia.fandom.com/wiki/Darkmoon_Island",
+      "desc": ""
+    },
+    {
+      "name": "Кезан",
+      "x": 34.2,
+      "y": 62.3,
+      "w": 1.5,
+      "h": 0.6,
+      "url": "https://wowpedia.fandom.com/wiki/Kezan",
+      "desc": ""
+    },
+    {
+      "name": "Платиновый пляж",
+      "x": 35,
+      "y": 60.8,
+      "w": 0.5,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Platinum_Sands",
+      "desc": ""
+    },
+    {
+      "name": "Гуляй-Полис",
+      "x": 34.67,
+      "y": 60.03,
+      "w": 0.5,
+      "h": 0.2,
+      "url": "https://wowpedia.fandom.com/wiki/Crapopolis",
+      "desc": ""
+    },
+    {
+      "name": "Ракетодром",
+      "x": 35.17,
+      "y": 59.78,
+      "w": 0.4,
+      "h": 0.2,
+      "url": "https://wowpedia.fandom.com/wiki/Rocketzan",
+      "desc": ""
+    },
+    {
+      "name": "ОМЗ",
+      "x": 35.25,
+      "y": 59.02,
+      "w": 0.21,
+      "h": 0.26,
+      "url": "https://wowpedia.fandom.com/wiki/V.M.Z.",
+      "desc": ""
+    },
+    {
+      "name": "Ниокр",
+      "x": 34.73,
+      "y": 58.92,
+      "w": 0.27,
+      "h": 0.2,
+      "url": "https://wowpedia.fandom.com/wiki/R%26D",
+      "desc": ""
+    },
+    {
+      "name": "Фартовые копи",
+      "x": 34.22,
+      "y": 59.48,
+      "w": 0.37,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Lucky_Strike_Mines",
+      "desc": ""
+    },
+    {
+      "name": "Гора Каджаро",
+      "x": 34.48,
+      "y": 58.51,
+      "w": 0.5,
+      "h": 0.2,
+      "url": "https://wowpedia.fandom.com/wiki/Mount_Kajaro",
+      "desc": ""
+    },
+    {
+      "name": "Вилла Галливикса",
+      "x": 33.82,
+      "y": 55.53,
+      "w": 0.42,
+      "h": 0.31,
+      "url": "https://wowpedia.fandom.com/wiki/Gallywix%27s_Villa",
+      "desc": ""
+    },
+    {
+      "name": "Порт трюмных вод",
+      "x": 34.3,
+      "y": 55.2,
+      "w": 0.7,
+      "h": 0.2,
+      "url": "https://wowpedia.fandom.com/wiki/Bilgewater_Port",
+      "desc": ""
+    },
+    {
+      "name": "Рабочий квартал",
+      "x": 34.3,
+      "y": 55.77,
+      "w": 0.3,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Drudgetown",
+      "desc": ""
+    },
+    {
+      "name": "Площадка Каджаро",
+      "x": 34.63,
+      "y": 55.67,
+      "w": 0.4,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Kajaro_Field",
+      "desc": ""
+    },
+    {
+      "name": "Первый банк Кезана",
+      "x": 34,
+      "y": 56.17,
+      "w": 0.47,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/First_Bank_of_Kezan",
+      "desc": ""
+    },
+    {
+      "name": "Штаб квартира ТКК",
+      "x": 34.58,
+      "y": 56.15,
+      "w": 0.5,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/KTC_Headquarters",
+      "desc": ""
+    },
+    {
+      "name": "Каджа'митовая шахта",
+      "x": 34.9,
+      "y": 56.5,
+      "w": 0.5,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Kaja%27mine",
+      "desc": ""
+    },
+    {
+      "name": "Зандалар",
+      "x": 53.1,
+      "y": 71.9,
+      "w": 6.8,
+      "h": 1.5,
+      "url": "https://wowpedia.fandom.com/wiki/Zandalar",
+      "desc": ""
+    },
+    {
+      "name": "Зулдазар",
+      "x": 48.9,
+      "y": 73.2,
+      "w": 1.2,
+      "h": 0.4,
+      "url": "https://wowpedia.fandom.com/wiki/Zuldazar",
+      "desc": ""
+    },
+    {
+      "name": "Вол'Дун",
+      "x": 46.06,
+      "y": 60.13,
+      "w": 1.1,
+      "h": 0.4,
+      "url": "https://wowpedia.fandom.com/wiki/Vol%27dun",
+      "desc": ""
+    },
+    {
+      "name": "Назмир",
+      "x": 52.24,
+      "y": 59.76,
+      "w": 1,
+      "h": 0.4,
+      "url": "https://wowpedia.fandom.com/wiki/Nazmir",
+      "desc": ""
+    },
+    {
+      "name": "Дазар'Алор",
+      "x": 50.57,
+      "y": 68.8,
+      "w": 0.4,
+      "h": 0.2,
+      "url": "https://wowpedia.fandom.com/wiki/Dazar%27alor",
+      "desc": ""
+    },
+    {
+      "name": "Бухта таланджи",
+      "x": 52.54,
+      "y": 69.28,
+      "w": 0.4,
+      "h": 0.3,
+      "url": "https://wowpedia.fandom.com/wiki/Talanji%27s_Rebuke",
+      "desc": ""
+    },
+    {
+      "name": "Атал'Грал",
+      "x": 52.6,
+      "y": 67.7,
+      "w": 0.34,
+      "h": 0.27,
+      "url": "https://wowpedia.fandom.com/wiki/Atal%27Gral",
+      "desc": ""
+    },
+    {
+      "name": "Тал'Гуруб",
+      "x": 51.4,
+      "y": 66.9,
+      "w": 0.3,
+      "h": 0.2,
+      "url": "https://wowpedia.fandom.com/wiki/Tal%27gurub",
+      "desc": ""
+    },
+    {
+      "name": "Тропа Эрнестуэя",
+      "x": 51.4,
+      "y": 65.6,
+      "w": 0.4,
+      "h": 0.4,
+      "url": "https://wowpedia.fandom.com/wiki/Nesingwary%27s_Trek",
+      "desc": ""
     }
   ]
 }
